@@ -1,0 +1,68 @@
+body{
+    background-color: beige;
+    margin-top: 10px;
+}
+
+.banderas{
+    width: 300px;
+    height: 200px;
+    border: 2px solid black;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.celeste1{
+background-color: rgb(98, 170, 215);
+height: 33.33%;
+}
+
+.blanco1{
+    background-color: white;
+    height: 33.33%;
+    }
+
+    .celeste2{
+        background-color: rgb(98, 170, 215);
+        height: 33.33%;
+        }
+        .azul{
+            background-color: blue;
+            height: 33.33%;
+        }
+        .blanco{
+            background-color: white;
+            height: 33.33%;
+            }
+        .rojo{
+            background-color: red;
+            height: 33.33%;
+        }
+
+        .color-verde{
+            background-color: green;
+            height: 33.33%;
+        }
+        .color-blanco2{
+            background-color: white;
+            height: 33.33%;
+        }
+        .color-rojo1{
+            background-color: red;
+            height: 33.33%;
+        }
+
+        .color-negro{
+            background-color: black;
+            height: 33.33%;
+        }
+
+        .color-rojo2{
+            background-color: red;
+            height: 33.33%;
+        }
+
+        .color-amarillo{
+            background-color: yellow;
+            height: 33.33%;
+        }
+
